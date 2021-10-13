@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//wrong
 float salario;
 float porcentagem;
 float salariofinal;
